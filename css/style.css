@@ -1,0 +1,68 @@
+*{
+	margin: 1px;
+	padding: 0;
+	text-align:center;
+	
+}
+#main{
+	width:100%;
+	background: rgba(120, 120, 120, 0.3);
+}
+div{
+	width:66%;
+	margin:auto;
+	margin-top:5px;
+	border:1px solid black;
+	background: white;
+	border-radius:5px;
+}
+.naslov{
+	width:99%;
+	border:2px solid black;
+	background: rgba(211, 255, 39, 0.3);
+	font-size:120%;
+}
+table{
+	margin:auto;
+	width:100%;
+}
+td.levi{
+	width:30%;
+	
+}
+td.desni{
+	width:70%;
+	
+}
+input{
+	border-radius:4px;
+}
+input.text{
+	width:70%;
+	height:19px;
+	border-radius:6px;
+}
+input.text2{
+	width:58%;
+	height:19px;
+	border-radius:6px;
+}
+input.radio{
+	margin-left:30px;
+	margin-right:5px;
+	margin-top: 8px;
+}
+input.text3{
+	width:68.5%;
+	height:19px;
+	border-radius:6px;
+}
+select{
+	width:40%;
+	text-align:center;
+	text-align-last:center;
+	border-radius:4px;
+}
+option{
+	text-align:center;
+}
